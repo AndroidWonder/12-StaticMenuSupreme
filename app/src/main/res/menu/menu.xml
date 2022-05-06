@@ -5,14 +5,17 @@
     <item
         android:id="@+id/web"
         android:title="WEB"
+        android:icon="@drawable/web"
         app:showAsAction="always" />
     <item
         android:id="@+id/maps"
         android:title="MAPS"
+        android:icon="@drawable/googlemaps"
         app:showAsAction="always" />
     <item
         android:id="@+id/dialer"
         android:title="DIALER"
+        android:icon="@drawable/dialer"
         app:showAsAction="always" />
     <item
         android:id="@+id/submenu"
