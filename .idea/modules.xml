@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/12-StaticMenuSupreme.iml" filepath="$PROJECT_DIR$/12-StaticMenuSupreme.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/12-StaticMenuSupreme.iml" filepath="$PROJECT_DIR$/.idea/modules/12-StaticMenuSupreme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/12-StaticMenuSupreme.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/12-StaticMenuSupreme.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/12-StaticMenuSupreme.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/12-StaticMenuSupreme.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/12-StaticMenuSupreme.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/12-StaticMenuSupreme.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/12-StaticMenuSupreme.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/12-StaticMenuSupreme.app.unitTest.iml" />
     </modules>
   </component>
 </project>
